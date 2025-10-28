@@ -1,0 +1,107 @@
+[
+  {
+    "latitude": 17.385044,
+    "longitude": 78.486671,
+    "timestamp": "2024-07-20T10:00:00Z",
+    "speed": 0,
+    "direction": "N"
+  },
+  {
+    "latitude": 17.385921,
+    "longitude": 78.486832,
+    "timestamp": "2024-07-20T10:00:30Z",
+    "speed": 20,
+    "direction": "N"
+  },
+  {
+    "latitude": 17.386793,
+    "longitude": 78.486982,
+    "timestamp": "2024-07-20T10:01:00Z",
+    "speed": 25,
+    "direction": "N"
+  },
+  {
+    "latitude": 17.387584,
+    "longitude": 78.487143,
+    "timestamp": "2024-07-20T10:01:30Z",
+    "speed": 22,
+    "direction": "N"
+  },
+  {
+    "latitude": 17.388375,
+    "longitude": 78.487261,
+    "timestamp": "2024-07-20T10:02:00Z",
+    "speed": 23,
+    "direction": "N"
+  },
+  {
+    "latitude": 17.388375,
+    "longitude": 78.488001,
+    "timestamp": "2024-07-20T10:02:30Z",
+    "speed": 18,
+    "direction": "E"
+  },
+  {
+    "latitude": 17.388375,
+    "longitude": 78.488741,
+    "timestamp": "2024-07-20T10:03:00Z",
+    "speed": 20,
+    "direction": "E"
+  },
+  {
+    "latitude": 17.388375,
+    "longitude": 78.489481,
+    "timestamp": "2024-07-20T10:03:30Z",
+    "speed": 22,
+    "direction": "E"
+  },
+  {
+    "latitude": 17.388933,
+    "longitude": 78.489481,
+    "timestamp": "2024-07-20T10:04:00Z",
+    "speed": 15,
+    "direction": "N"
+  },
+  {
+    "latitude": 17.389491,
+    "longitude": 78.489481,
+    "timestamp": "2024-07-20T10:04:30Z",
+    "speed": 18,
+    "direction": "N"
+  },
+  {
+    "latitude": 17.390049,
+    "longitude": 78.489481,
+    "timestamp": "2024-07-20T10:05:00Z",
+    "speed": 20,
+    "direction": "N"
+  },
+  {
+    "latitude": 17.390607,
+    "longitude": 78.489481,
+    "timestamp": "2024-07-20T10:05:30Z",
+    "speed": 19,
+    "direction": "N"
+  },
+  {
+    "latitude": 17.391165,
+    "longitude": 78.489481,
+    "timestamp": "2024-07-20T10:06:00Z",
+    "speed": 21,
+    "direction": "N"
+  },
+  {
+    "latitude": 17.391165,
+    "longitude": 78.490221,
+    "timestamp": "2024-07-20T10:06:30Z",
+    "speed": 25,
+    "direction": "E"
+  },
+  {
+    "latitude": 17.391165,
+    "longitude": 78.490961,
+    "timestamp": "2024-07-20T10:07:00Z",
+    "speed": 23,
+    "direction": "E"
+  }
+]
