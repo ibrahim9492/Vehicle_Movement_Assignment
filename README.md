@@ -178,6 +178,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 # Deployment URL
 
 ```
-https://vehicle-map-simulator-nine.vercel.app/
+https://vehicle-movement-assignment.vercel.app/
+
 ```
 
